@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eyk0
 - 👀 I’m interested in all programtion language
-- 🌱 I’m currently learning python, php, JS, Java... 
-- 💞️ I’m looking to collaborate to create a serious project
+- 🌱 I'm currently a developer PHP but also JS, Python... and some frameworks :)
+- 💞️ I’m looking to collaborate to create a serious project with the Agile methods
 - 📫 To contact me, you can send me an email at loann.clisson@outlook.fr
 
 <!---
